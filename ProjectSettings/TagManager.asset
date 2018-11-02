@@ -14,13 +14,13 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Climbing
+  - Player
+  - Background
+  - Enemy
+  - Hazards
+  - Interactables
   - 
   - 
   - 
@@ -43,6 +43,21 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 2934805045
+    locked: 0
+  - name: Climbing
+    uniqueID: 2619869929
+    locked: 0
+  - name: Enemy
+    uniqueID: 3341871279
+    locked: 0
+  - name: Hazards
+    uniqueID: 3840761563
+    locked: 0
+  - name: Interactables
+    uniqueID: 1535731961
+    locked: 0
+  - name: Player
+    uniqueID: 122630119
     locked: 0
   - name: Foreground
     uniqueID: 4058193729
